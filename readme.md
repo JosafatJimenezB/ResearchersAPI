@@ -16,12 +16,12 @@ Haz un fork de este repositorio en tu propia cuenta de GitHub.
 Clona el repositorio desde tu cuenta de GitHub a tu máquina local:
 
 ```bash
-git clone https://github.com/TU_USUARIO/repo.git
+git clone https://github.com/JosafatJimenezB/ResearchersAPI.git
 ```
 Accede al directorio del proyecto:
 
 ```bash
-cd repo
+cd ResearchersAPI
 ```
 Abre el proyecto en tu entorno de desarrollo preferido (por ejemplo, IntelliJ IDEA, Eclipse).
 
