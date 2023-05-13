@@ -68,6 +68,6 @@ La aplicación se ejecutará en el puerto predeterminado 8080 en tu máquina loc
 Abre tu navegador web y accede a la siguiente URL para probar la aplicación:
 
 ```bash
-http://localhost:9091/nao-researcher-api/api/v1/researchers/{query}
+http://localhost:9091/researchers-api/api/v1/researchers/{query}
 ```
 Reemplaza {query} con el término de búsqueda que desees, como el ID, nombre o fecha de nacimiento del autor. La aplicación buscará en la API de Google Scholar y mostrará los resultados en el navegador.
