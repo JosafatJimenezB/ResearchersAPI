@@ -71,3 +71,5 @@ Abre tu navegador web y accede a la siguiente URL para probar la aplicación:
 http://localhost:9091/researchers-api/api/v1/researchers/{query}
 ```
 Reemplaza {query} con el término de búsqueda que desees, como el ID, nombre o fecha de nacimiento del autor. La aplicación buscará en la API de Google Scholar y mostrará los resultados en el navegador.
+
+###### Made with :heart: by JosafatJimenezB
